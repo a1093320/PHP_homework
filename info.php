@@ -7,3 +7,4 @@
     echo "您的密碼:".$password."</br>";
     echo "您的email:".$email."</br>";
     echo "您的電話:".$tel."</br>";
+?>
